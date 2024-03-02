@@ -35,6 +35,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-![snake animation](https://github.com/<su >/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/{tahersouissi}/{tahersouissi}/output/github-contribution-grid-snake-dark.svg"
+  alt="Git" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
