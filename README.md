@@ -38,11 +38,4 @@
 
 ![snake gif](https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.gif)
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
