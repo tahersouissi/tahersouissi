@@ -37,5 +37,17 @@
 </p>
 
 ![snake gif](https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.svg)
+### 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahersouissi&theme=github_dark" alt="tahersouissi's GitHub Stats"/>
+</div>
+
+### 📊 GitHub Language Statistics
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahersouissi&layout=compact&theme=vision-friendly-dark" />
+</div>
+
+### deep dive to the void :)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
