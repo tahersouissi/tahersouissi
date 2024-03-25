@@ -48,6 +48,11 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahersouissi&layout=compact&theme=vision-friendly-dark" />
 </div>
 
+
+<div>
+<img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api?username=hijenhek&count_private=true&show_icons=true&theme=dark" />
+<img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hijenhek&theme=dark&layout=compact" />
+</div>
 ### deep dive to the void :)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
