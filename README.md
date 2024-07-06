@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/taher-souissi-3a600a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="taher souissi" height="30" width="40" /></a></p>
 
-ffff
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -51,6 +51,10 @@ ffff
 <img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api?username=tahersouissi&count_private=true&show_icons=true&theme=dark" />
 <img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tahersouissi&theme=dark&layout=compact" />
 </div>
+
+### :fire: Work :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NacerKH&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ### Deep dive into make repos :)
