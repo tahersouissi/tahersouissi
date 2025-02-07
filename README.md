@@ -53,11 +53,6 @@
 <img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tahersouissi&theme=dark&layout=compact" />
 </div>
 
-### :fire: Work :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tahersouissi&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
 ### Deep dive into make repos :)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
