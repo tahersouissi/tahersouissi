@@ -102,8 +102,26 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahersouissi&theme=react-dark)
 
-### The snake !!!
-![snake gif](https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.gif)
+
+
+Enjoy watching the snake grow with each commit! 🎮🐍
+# The Snake Animation!
+
+Check out my dynamic snake animation that changes based on dark or light mode preferences!
+
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake-dark.gif?palette=github-dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  
+  <!-- Light mode (default) -->
+  <img src="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation">
+  <img src="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</picture>
+
+
+
+
 
 ## 📬 Let's Connect!
 
