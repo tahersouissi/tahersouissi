@@ -102,6 +102,9 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahersouissi&theme=react-dark)
 
+### The snake !!!
+![snake gif](https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.gif)
+
 ## 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taher-souissi-3a600a23a) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahersouissi)
