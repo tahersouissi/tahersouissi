@@ -120,20 +120,6 @@ Check out my dynamic snake animation that changes based on dark or light mode pr
 </picture>
 
 
-
-#### fdfdfdfdf
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahersouissi/tahersouissi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahersouissi/tahersouissi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tahersouissi/tahersouissi/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
-
-
 ## 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taher-souissi-3a600a23a) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahersouissi)
