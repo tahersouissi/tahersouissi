@@ -94,12 +94,6 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tahersouissi&count_private=true&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tahersouissi&theme=dark&layout=compact)
 
-### 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tahersouissi&theme=darkhub)
-
-
-
 # Enjoy watching the snake grow with each commit! 🎮🐍
 
 <picture>
