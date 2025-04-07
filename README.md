@@ -98,16 +98,9 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tahersouissi&theme=darkhub)
 
-### 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahersouissi&theme=react-dark)
 
 
-
-Enjoy watching the snake grow with each commit! 🎮🐍
-# The Snake Animation!
-
-Check out my dynamic snake animation that changes based on dark or light mode preferences!
+# Enjoy watching the snake grow with each commit! 🎮🐍
 
 <picture>
   <!-- Dark mode -->
