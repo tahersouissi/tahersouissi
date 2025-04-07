@@ -111,12 +111,12 @@ Check out my dynamic snake animation that changes based on dark or light mode pr
 
 <picture>
   <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake-dark.gif?palette=github-dark">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.svg">
   
   <!-- Light mode (default) -->
-  <img src="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation">
-  <img src="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+ <!-- <img src="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation"> -->
+  <img  alt="github contribution grid snake animation"  src="https://github.com/tahersouissi/tahersouissi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </picture>
 
 
